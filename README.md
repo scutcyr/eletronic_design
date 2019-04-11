@@ -1,4 +1,6 @@
 # 电子系统综合设计示例
+<p align="center"><img width="40%" src="https://github.com/scutcyr/eletronic_design/blob/master/electronic%20design%20competition/%E9%A1%B9%E7%9B%AE%E7%BB%8F%E9%AA%8C%E6%96%87%E4%BB%B6.png" /></p>
+
 - 分数：99
 - 这是华南理工大学电子与信息学院《电子系统综合设计》样例
 - 作者：陈艺荣已直博本学院)、周泽鑫(已保研本学院)、何晨晖(已保研本学院)、吴子莹(已保研本学院)、陈靖康(已保研本学院)
