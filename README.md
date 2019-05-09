@@ -9,6 +9,7 @@
 [一种基于STM32和Android的智能开门系统](https://github.com/scutcyr/eletronic_design/tree/master/initial_design)
 - [开题报告-一种基于STM32和Android的智能开门系统.pdf](https://github.com/scutcyr/eletronic_design/raw/master/initial_design/%E5%BC%80%E9%A2%98%E6%8A%A5%E5%91%8A-%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8ESTM32%E5%92%8CAndroid%E7%9A%84%E6%99%BA%E8%83%BD%E5%BC%80%E9%97%A8%E7%B3%BB%E7%BB%9F.pdf)
 - [开题答辩-一种基于stm32和android的智能开门系统.pptx](https://github.com/scutcyr/eletronic_design/raw/master/initial_design/%E5%BC%80%E9%A2%98%E7%AD%94%E8%BE%A9-%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8Estm32%E5%92%8Candroid%E7%9A%84%E6%99%BA%E8%83%BD%E5%BC%80%E9%97%A8%E7%B3%BB%E7%BB%9F.pptx)
+-[【结题答辩】一种基于STM32和Android的智能开门系统最终版.pdf](https://github.com/scutcyr/eletronic_design/raw/master/initial_design/%E3%80%90%E7%BB%93%E9%A2%98%E7%AD%94%E8%BE%A9%E3%80%91%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8ESTM32%E5%92%8CAndroid%E7%9A%84%E6%99%BA%E8%83%BD%E5%BC%80%E9%97%A8%E7%B3%BB%E7%BB%9F%E6%9C%80%E7%BB%88%E7%89%88.pdf)
 - [电子系统综合设计STM32代码.rar](https://github.com/scutcyr/eletronic_design/raw/master/initial_design/%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E7%BB%BC%E5%90%88%E8%AE%BE%E8%AE%A1STM32%E4%BB%A3%E7%A0%81.rar)
 - [电子系统综合设计Android代码.rar](https://github.com/scutcyr/eletronic_design/raw/master/initial_design/%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E7%BB%BC%E5%90%88%E8%AE%BE%E8%AE%A1Android%E4%BB%A3%E7%A0%81.rar)
 - [smartlock APP下载](https://github.com/scutcyr/eletronic_design/raw/master/APP/smartlock_v6.apk)
