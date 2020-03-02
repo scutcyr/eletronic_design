@@ -29,5 +29,10 @@
 - [一种基于STM32和Android的智能开门方法及其系统.pdf](https://github.com/scutcyr/eletronic_design/raw/master/patent/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8ESTM32%E5%92%8CAndroid%E7%9A%84%E6%99%BA%E8%83%BD%E5%BC%80%E9%97%A8%E6%96%B9%E6%B3%95%E5%8F%8A%E5%85%B6%E7%B3%BB%E7%BB%9F.pdf)
 - [发明专利-一种基于STM32和Android的智能开门方法及其系统.pdf](https://github.com/scutcyr/eletronic_design/blob/master/patent/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9-%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8ESTM32%E5%92%8CAndroid%E7%9A%84%E6%99%BA%E8%83%BD%E5%BC%80%E9%97%A8%E6%96%B9%E6%B3%95%E5%8F%8A%E5%85%B6%E7%B3%BB%E7%BB%9F.pdf)
 
+<p align="center"><img width="80%" src="https://github.com/scutcyr/eletronic_design/blob/master/patent/7%E3%80%81ZL%20201822059388.9-%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8ESTM32%E5%92%8CAndroid%E7%9A%84%E6%99%BA%E8%83%BD%E5%BC%80%E9%97%A8%E7%B3%BB%E7%BB%9F_00.png
+" /></p>
+
+
+
 ## 注意事项
 本作品仅供参考，切忌抄袭！
