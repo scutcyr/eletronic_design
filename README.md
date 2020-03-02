@@ -1,10 +1,12 @@
 # 电子系统综合设计示例
 <p align="center"><img width="40%" src="https://github.com/scutcyr/eletronic_design/blob/master/electronic%20design%20competition/%E9%A1%B9%E7%9B%AE%E7%BB%8F%E9%AA%8C%E6%96%87%E4%BB%B6.png" /></p>
-- [doc_file](./doc_file)文件夹内提供了开题报告、结题报告、中期答辩、结题答辩的原始文档！       
+     
 - 分数：99
 - 这是华南理工大学电子与信息学院《电子系统综合设计》样例
 - 作者：陈艺荣已直博本学院)、周泽鑫(已保研本学院)、何晨晖(已保研本学院)、吴子莹(已保研本学院)、陈靖康(已保研本学院)
 - 指导教师  徐向民、舒琳
+- [doc_file](./doc_file)文件夹内提供了开题报告、结题报告、中期答辩、结题答辩的原始文档！  
+
 ## 原始作品: 电子系统综合设计
 [一种基于STM32和Android的智能开门系统](https://github.com/scutcyr/eletronic_design/tree/master/initial_design)
 - [开题报告-一种基于STM32和Android的智能开门系统.pdf](https://github.com/scutcyr/eletronic_design/raw/master/initial_design/%E5%BC%80%E9%A2%98%E6%8A%A5%E5%91%8A-%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8ESTM32%E5%92%8CAndroid%E7%9A%84%E6%99%BA%E8%83%BD%E5%BC%80%E9%97%A8%E7%B3%BB%E7%BB%9F.pdf)
